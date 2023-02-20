@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px;
+    background-color: #d5d2d2;
+    border-bottom: 1px solid rgb(199, 197, 197);
+}
+
+.logo-title {
+    color: #06ffffd4;
+    font-size: 18px;
+    margin-top: 15px;
+    font-weight: 900;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 200px;
+}
+
+.logo-container {
+    display: flex;
+}
+
+.items {
+    display: flex;
+    list-style: none;
+}
+
+.item {
+    margin: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}

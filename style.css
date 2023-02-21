@@ -91,9 +91,13 @@
 
 /* service start 
 ================== */
+.service-container {
+    background-color: black;
+}
+
 .service-left {
     width: 50%;
-    margin-top: 100px;
+    padding-top: 100px;
 }
 
 .service-left-content {
@@ -106,4 +110,26 @@
     border-radius: 25px;
     color: #8080a1;
     border: none;
+    margin-bottom: 10px;
+}
+
+.service-title {
+    font-size: 42px;
+    color: #becfd0;
+    margin-bottom: 10px;
+}
+
+.services {
+    color: #f52c2c;
+}
+
+.service-description {
+    font-size: 18px;
+    color: #becfc4;
+    margin-bottom: 20px;
+}
+
+.order-list {
+    color: #becfc4;
+    margin-left: 20px;
 }

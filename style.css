@@ -53,4 +53,26 @@
     text-align: center;
 }
 
-.digital-banner {}
+.banner-title {
+    padding-top: 100px;
+    font-size: 90px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.digital-banner {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.digital {
+    color: #f52c2c;
+}
+
+.banner-description {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.btn-more {}

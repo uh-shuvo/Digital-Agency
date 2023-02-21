@@ -88,3 +88,22 @@
     background-color: #f52c2c;
     color: white;
 }
+
+/* service start 
+================== */
+.service-left {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.service-left-content {
+    margin-left: 8px;
+}
+
+.service-btn {
+    padding: 15px 35px;
+    font-size: 16px;
+    border-radius: 25px;
+    color: #8080a1;
+    border: none;
+}

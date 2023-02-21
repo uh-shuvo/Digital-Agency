@@ -75,12 +75,16 @@
     margin-bottom: 20px;
 }
 
-.btn-more {
+.btn {
     padding: 15px 25px;
     font-size: 18px;
     font-weight: 400;
-    background-color: #f52c2c;
-    color: white;
     border-radius: 5px;
     border: none;
+}
+
+.btn-more {
+    margin-right: 10px;
+    background-color: #f52c2c;
+    color: white;
 }

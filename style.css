@@ -194,3 +194,42 @@
     width: 100px;
     padding: 20px;
 }
+
+.appointment-section {
+    display: flex;
+    background-color: #f52c2c;
+    width: 75%;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: -80px;
+    border-radius: 15px;
+    color: white;
+}
+
+.appointment-details {
+    margin-right: 30px;
+    margin-left: 10px;
+}
+
+.call-box {
+    display: flex;
+    border-right: 2px solid gray;
+}
+
+.appointment-call {
+    width: 100px;
+}
+
+.appointment-description {
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.appointment-button {
+    padding: 20px;
+    border-radius: 15px;
+    border: none;
+}

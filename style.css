@@ -233,3 +233,30 @@
     border-radius: 15px;
     border: none;
 }
+
+.blog-section {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.blogs {
+    margin-top: 30px;
+}
+
+.blog-title {
+    font-size: 45px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.blog {
+    color: #f52c2c;
+}
+
+.blog-descriptio {
+    font-size: 20px;
+    color: black;
+    margin-bottom: 50px;
+}

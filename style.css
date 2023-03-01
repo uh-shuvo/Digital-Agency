@@ -255,8 +255,40 @@
     color: #f52c2c;
 }
 
-.blog-descriptio {
-    font-size: 20px;
-    color: black;
-    margin-bottom: 50px;
+.heroes {
+    display: flex;
+    margin-top: 35px;
+    padding: 30px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hero {
+    width: 350px;
+    height: 430px;
+    box-shadow: 4px 4px 8px gray;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.hero-img {
+    width: 350px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.hero-text {
+    padding: 15px;
+}
+
+.hero-title {
+    font-size: 24px;
+    color: #363535;
+    font-weight: bold;
+}
+
+.hero-description {
+    font-size: 18px;
+    color: rgb(76, 72, 72);
+    margin-top: 15px;
 }
